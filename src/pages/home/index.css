@@ -1,0 +1,17 @@
+.main-container{
+    width: 1600px;
+    height: 100vh;
+    min-height: 100vh;
+    min-width: 100vw;
+
+    background-color: #EFEFEF;
+}
+
+.sidebar{
+    width: 613px;
+    height: 100%;
+
+    background-image: url("../../assets/Sidebar.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
